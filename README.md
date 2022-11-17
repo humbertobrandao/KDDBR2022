@@ -8,13 +8,11 @@ challenge "KDD BR Competition 2022" of the team Artificial Psycho Killer.
 
 * Unix-like system. It has been created on Ubuntu 22.04;
 * R version 4.1.2 or higher and only 2 packages;
-
 ```
 $ sudo sudo apt update -y ;
 $ sudo apt install r-base - y ;
 $ sudo R
 $ > install.packages( c("data.table", "matrixStats") );
-
 ```
 
 * Java 8 or higher;
@@ -22,7 +20,6 @@ $ > install.packages( c("data.table", "matrixStats") );
 ```
 $ sudo sudo apt update -y ;
 $ sudo apt install openjdk-8-jdk -y ;
-
 ```
 
 ## Running the feature generation (part #1)
@@ -34,7 +31,6 @@ Easy method:
 ```
 $ sudo chmod 755 ./script.sh
 $ ./script.sh
-
 ```
 
 Or you can run each command line, separately:
@@ -47,7 +43,6 @@ $ java -cp 2022_KDDBR.jar mainPackage.Main_05
 $ Rscript script_02_creating_complete_05.R
 $ java -cp 2022_KDDBR.jar mainPackage.Main_06
 $ Rscript script_03_creating_complete_06.R
-
 ```
 
 Three datasets will be generated with the names:
