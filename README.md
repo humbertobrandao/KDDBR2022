@@ -52,7 +52,7 @@ Three datasets will be generated with the names:
 * complete_05.csv
 * complete_06.csv
 
-These three files are inputs for the next steps of the team's solution. You can see these generated files in the fold `./outputs`, but you generate as explained before, if you want.
+These three files are inputs for the next steps of the team's solution. You can see these generated files, zipped, in the fold `./outputs`, but you generate as explained before, if you want.
 
 If you have any question, you can ask me: `humberto@brandao.org`
 
