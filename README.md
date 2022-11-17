@@ -24,7 +24,9 @@ $ sudo apt install openjdk-8-jdk -y ;
 
 ## Running the feature generation (part #1)
 
-There are two ways of running this project.
+This procedure will create 3 data sets. Each one will take 6 hours of processing, approximately.
+
+Here, I am showing two manners of running this project.
 
 Easy method:
 
